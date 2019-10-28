@@ -6,3 +6,6 @@ A list of resources for Engineering Managers
 
 ## Meetings
 [To Build an Inclusive Culture, Start with Inclusive Meetings](https://hbr.org/2019/09/to-build-an-inclusive-culture-start-with-inclusive-meetings)  
+
+## Culture
+[The Thing About Burnout](https://docs.google.com/presentation/d/1oGNNZn4eX-a0jj9W04NjeP-2RzLkCmlxyKC8UXmfauo/edit#slide=id.g654c726fad_2_489)  
