@@ -9,3 +9,6 @@ A list of resources for Engineering Managers
 
 ## Culture
 [The Thing About Burnout](https://docs.google.com/presentation/d/1oGNNZn4eX-a0jj9W04NjeP-2RzLkCmlxyKC8UXmfauo/edit#slide=id.g654c726fad_2_489)  
+
+## General Advice
+[Advice to my younger self](https://blog.alexmaccaw.com/advice-to-my-younger-self)  
