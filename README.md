@@ -18,5 +18,11 @@ A list of resources for Engineering Managers
 ### General Advice
 [Advice to my younger self](https://blog.alexmaccaw.com/advice-to-my-younger-self)  
 
+## Newsletters
+http://softwareleadweekly.com/   
+http://www.techleadershipweekly.com/  
+https://www.gitprime.com/engineering-impact/  
+https://leadingsoftwarepeople.statushero.com/  
+
 ## Podcasts
 [Manager Tools](https://www.manager-tools.com/all-podcasts)  
