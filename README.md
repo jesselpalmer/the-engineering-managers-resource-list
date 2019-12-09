@@ -18,6 +18,9 @@ A list of resources for Engineering Managers
 ### General Advice
 [Advice to my younger self](https://blog.alexmaccaw.com/advice-to-my-younger-self)  
 
+### Leadership Styles
+[Mastering New Leadership Styles](https://cate.blog/2019/12/04/mastering-new-leadership-styles/)
+
 ## Newsletters
 http://softwareleadweekly.com/   
 http://www.techleadershipweekly.com/  
