@@ -19,7 +19,13 @@ A list of resources for Engineering Managers
 [Advice to my younger self](https://blog.alexmaccaw.com/advice-to-my-younger-self)  
 
 ### Leadership Styles
-[Mastering New Leadership Styles](https://cate.blog/2019/12/04/mastering-new-leadership-styles/)
+[Mastering New Leadership Styles](https://cate.blog/2019/12/04/mastering-new-leadership-styles/)  
+
+### Onboarding as a New Manager
+[6 mistakes to avoid during your first 30 days as a new manager](https://m.signalvnoise.com/6-mistakes-to-avoid-during-your-first-30-days-as-a-new-manager/)  
+
+### Building Trust
+[The 3 most effective ways to build trust as a leader](https://knowyourteam.com/blog/2019/02/12/the-3-most-effective-ways-to-build-trust-as-a-leader/)   
 
 ## Newsletters
 http://softwareleadweekly.com/   
