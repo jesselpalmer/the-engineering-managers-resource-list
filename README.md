@@ -35,3 +35,4 @@ https://leadingsoftwarepeople.statushero.com/
 
 ## Podcasts
 [Manager Tools](https://www.manager-tools.com/all-podcasts)  
+[Decisive Moments](https://podcasts.apple.com/us/podcast/buzzcast/id1489429177)  
