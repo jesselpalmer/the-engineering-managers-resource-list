@@ -27,6 +27,9 @@ A list of resources for Engineering Managers
 ### Building Trust
 [The 3 most effective ways to build trust as a leader](https://knowyourteam.com/blog/2019/02/12/the-3-most-effective-ways-to-build-trust-as-a-leader/)   
 
+## Blogs
+[Managers Club](https://www.managersclub.com/)  
+
 ## Newsletters
 http://softwareleadweekly.com/   
 http://www.techleadershipweekly.com/  
