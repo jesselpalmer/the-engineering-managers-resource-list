@@ -29,6 +29,7 @@ A list of resources for Engineering Managers
 
 ## Blogs
 [Managers Club](https://www.managersclub.com/)  
+[Irrational Exuberance](https://lethain.com/) by [Will Larson](https://twitter.com/Lethain)  
 
 ## Newsletters
 http://softwareleadweekly.com/   
