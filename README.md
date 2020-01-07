@@ -33,7 +33,7 @@ A list of resources for Engineering Managers
 [pragmatist](http://pragmati.st/) by [Patrick Joyce](https://twitter.com/KeeperPat)
 
 ## Newsletters
-http://softwareleadweekly.com/   
+[Software Lead Weekly](http://softwareleadweekly.com/)   
 http://www.techleadershipweekly.com/  
 https://www.gitprime.com/engineering-impact/  
 https://leadingsoftwarepeople.statushero.com/  
