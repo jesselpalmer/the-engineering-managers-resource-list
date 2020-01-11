@@ -36,7 +36,7 @@ A list of resources for Engineering Managers
 [Software Lead Weekly](http://softwareleadweekly.com/)   
 [Tech Leadership Weekly](http://www.techleadershipweekly.com/)  
 https://www.gitprime.com/engineering-impact/  
-https://leadingsoftwarepeople.statushero.com/  
+[Leading Software People](https://leadingsoftwarepeople.statushero.com/)  
 
 ## Podcasts
 [Manager Tools](https://www.manager-tools.com/all-podcasts)  
