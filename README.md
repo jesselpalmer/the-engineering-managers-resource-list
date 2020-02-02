@@ -1,5 +1,5 @@
 # The Engineering Manager's Resource List
-A list of resources for Engineering Managers
+A list of resources for Engineering Managers. If you are interested in book recommendations, feel free to checkout https://github.com/jesselpalmer/the-engineering-managers-booklist.
 
 ## Blog posts
 
