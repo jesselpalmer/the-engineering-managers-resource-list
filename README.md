@@ -3,6 +3,9 @@ A list of resources for Engineering Managers. If you are interested in book reco
 
 ## Blog posts
 
+### Remote work
+[A Guide to Managing your (Newly) Remotely Workers](https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers)
+
 ### Giving Feedback
 [Micro feedbacks](https://medium.com/nmc-techblog/micro-feedbacks-92a8ade8ba39)  
 
