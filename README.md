@@ -3,6 +3,9 @@ A list of resources for Engineering Managers. If you are interested in book reco
 
 ## Blog posts
 
+### Being Vulnerable
+[Today’s Leaders Need Vulnerability, Not Bravado](https://hbr.org/2020/10/todays-leaders-need-vulnerability-not-bravado)
+
 ### Remote work
 [A Guide to Managing your (Newly) Remotely Workers](https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers)
 
